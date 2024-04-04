@@ -1,0 +1,32 @@
+INFO:root:Personnel table created (if it didn't exist).
+INFO:root:Server listening on localhost:5000
+INFO:root:New connection from ('127.0.0.1', 58482)
+INFO:root:Personnel table created (if it didn't exist).
+INFO:root:Server listening on localhost:5000
+INFO:root:New connection from ('127.0.0.1', 58604)
+
+INFO:root:Personnel table created (if it didn't exist).
+INFO:root:Server listening on localhost:5000
+INFO:root:New connection from ('127.0.0.1', 59781)
+INFO:root:Client client_1 connected.
+INFO:root:Personnel table created (if it didn't exist).
+INFO:root:Server listening on localhost:5000
+INFO:root:New connection from ('127.0.0.1', 53477)
+INFO:root:Client client_1 connected.
+ERROR:root:Error handling client: 
+INFO:root:Personnel table created (if it didn't exist).
+INFO:root:Server listening on localhost:5000
+INFO:root:New connection from ('127.0.0.1', 53800)
+INFO:root:Client client_1 connected.
+ERROR:root:Error handling client: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 686200 and this is thread id 686240.
+
+
+
+
+ERROR:root:Error handling client: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 686200 and this is thread id 686240.
+INFO:root:Personnel table created (if it didn't exist).
+INFO:root:Server listening on localhost:5000
+INFO:root:New connection from ('127.0.0.1', 54041)
+INFO:root:Client client_1 connected.
+
+
